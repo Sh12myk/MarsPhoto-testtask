@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MarsPhoto-testtask/static/css/main.d748ab68.chunk.css",
+    "main.js": "/MarsPhoto-testtask/static/js/main.9ad29b19.chunk.js",
+    "main.js.map": "/MarsPhoto-testtask/static/js/main.9ad29b19.chunk.js.map",
+    "runtime-main.js": "/MarsPhoto-testtask/static/js/runtime-main.d8021b33.js",
+    "runtime-main.js.map": "/MarsPhoto-testtask/static/js/runtime-main.d8021b33.js.map",
+    "static/js/2.dc3b9ee0.chunk.js": "/MarsPhoto-testtask/static/js/2.dc3b9ee0.chunk.js",
+    "static/js/2.dc3b9ee0.chunk.js.map": "/MarsPhoto-testtask/static/js/2.dc3b9ee0.chunk.js.map",
+    "static/js/3.cc6a1a47.chunk.js": "/MarsPhoto-testtask/static/js/3.cc6a1a47.chunk.js",
+    "static/js/3.cc6a1a47.chunk.js.map": "/MarsPhoto-testtask/static/js/3.cc6a1a47.chunk.js.map",
+    "index.html": "/MarsPhoto-testtask/index.html",
+    "static/css/main.d748ab68.chunk.css.map": "/MarsPhoto-testtask/static/css/main.d748ab68.chunk.css.map",
+    "static/js/2.dc3b9ee0.chunk.js.LICENSE.txt": "/MarsPhoto-testtask/static/js/2.dc3b9ee0.chunk.js.LICENSE.txt",
+    "static/js/3.cc6a1a47.chunk.js.LICENSE.txt": "/MarsPhoto-testtask/static/js/3.cc6a1a47.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/MarsPhoto-testtask/static/media/bg.dc858b56.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8021b33.js",
+    "static/js/2.dc3b9ee0.chunk.js",
+    "static/css/main.d748ab68.chunk.css",
+    "static/js/main.9ad29b19.chunk.js"
+  ]
+}
